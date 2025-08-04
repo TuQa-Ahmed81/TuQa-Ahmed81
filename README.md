@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Iam Tuqa Ahmed , Senior Student at Faculty of Computer Science .
--Expertise in python-flask-preprocessing-ML-DL-NLP
+Iam Tuqa Ahmed , Senior Student at Faculty of Computer Science.
 
 🔭 I’m currently working on:
 - Building a models , chatbots ,... using Python, FastText, and spaCy (scispaCy).
