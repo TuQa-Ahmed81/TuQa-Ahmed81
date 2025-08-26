@@ -8,11 +8,11 @@ Iam Tuqa Ahmed , Senior Student at Faculty of Computer Science.
 
 🌱 I’m currently learning:
 - Advanced Natural Language Processing (NLP) techniques.
-- Deep learning frameworks like TensorFlow and PyTorch.
+- Deep learning frameworks like TensorFlow.
 - Best practices in software engineering and clean code.
 
 👯 I’m looking to collaborate on:
-- Open-source projects in NLP or AI for healthcare.
+- Open-source projects in NLP or AI .
 - Tools that help automate boring tasks or improve learning.
 
 🤔 I’m looking for help with:
